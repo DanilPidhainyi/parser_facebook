@@ -15,8 +15,8 @@ chrome_link = './chromedriver.exe'
 # url = 'https://www.facebook.com/search/pages?q=restaurant&filters=eyJmaWx0ZXJfcGFnZXNfbG9jYXRpb246MCI6IntcIm5hbWVcIjpcImZpbHRlcl9wYWdlc19sb2NhdGlvblwiLFwiYXJnc1wiOlwiMTAyMTQ2NjYzMTYwODMxXCJ9In0%3D'
 url = 'https://www.facebook.com/search/pages?q=cafe&filters=eyJmaWx0ZXJfcGFnZXNfbG9jYXRpb246MCI6IntcIm5hbWVcIjpcImZpbHRlcl9wYWdlc19sb2NhdGlvblwiLFwiYXJnc1wiOlwiMTE2MTkwNDExNzI0OTc1XCJ9In0%3D'
 # акунт фейсбук
-login_facebook = '0681286458'
-pass_facebook = '1235028F'
+login_facebook = ''
+pass_facebook = ''
 # скільки сторінок потрібно знайти
 how_many_pages_to_find = 1200
 how_max_like = 100
