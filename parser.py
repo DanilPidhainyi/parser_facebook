@@ -14,8 +14,8 @@ chrome_link = './chromedriver.exe'
 # шлях до запросу
 url = 'https://www.facebook.com/search/pages?q=restaurant&filters=eyJmaWx0ZXJfcGFnZXNfbG9jYXRpb246MCI6IntcIm5hbWVcIjpcImZpbHRlcl9wYWdlc19sb2NhdGlvblwiLFwiYXJnc1wiOlwiMTAyMTQ2NjYzMTYwODMxXCJ9In0%3D'
 # акунт фейсбук
-login_facebook = '0681286458'
-pass_facebook = '1235028F'
+login_facebook = ''
+pass_facebook = ''
 # скільки сторінок потрібно знайти
 how_many_pages_to_find = 40
 write_on_file = 0  # для записів сторінок у файл 1
